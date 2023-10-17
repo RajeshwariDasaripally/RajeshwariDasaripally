@@ -8,7 +8,7 @@ Seeking new challenges and actively searching jobs in IT sector. I studied Digio
 
 * 🌍  I live in Finland
 * ✉️  You can contact me at [rajeshwarireddi@gmail.com](mailto:rajeshwarireddi@gmail.com)
-* 🧠  I'm currently learning Python advanced topics like Numpy, Matplotlib and Powerbi.
+* 🧠  I'm currently learning Python advanced topics like Numpy, Matplotlib, Powerbi and API Test Automation.
 
 ### CORE
 <div align="left">
